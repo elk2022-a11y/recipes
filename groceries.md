@@ -2,3 +2,4 @@
 * orange: $4 
 * grapes: $3
 * banana: $2
+* apple: $1
