@@ -8,3 +8,5 @@
 smash avocado and add lemon and salt
 
 ## Time
+## Prices 
+* avocado: $5
